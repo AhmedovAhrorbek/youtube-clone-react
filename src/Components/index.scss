@@ -1,0 +1,33 @@
+.category-btns:hover {
+    background-color: #7B2CBF;
+    transition: 0.5s all;
+}
+
+.category-btns {
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 20px;
+    background: none;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.category-btns:hover .category-btns-icon{
+    color: #fff !important;
+}
+// .search-bar::placeholder{
+//    color: #7B2CBF;
+// }
+
+// .search-bar{
+//     border-radius: 2px solid #7B2CBF;
+// }
+
+///Feed ///
+.feed-title{
+    margin-left: 20px;
+}
